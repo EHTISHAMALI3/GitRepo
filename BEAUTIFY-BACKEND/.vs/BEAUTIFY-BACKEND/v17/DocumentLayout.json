@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.infrastrcture\\repository\\authrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|solutionrelative:beautify.infrastrcture\\repository\\authrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B8132-636F-4642-849B-4893B9D33486}|API\\BEAUTIFY.API.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B8132-636F-4642-849B-4893B9D33486}|API\\BEAUTIFY.API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.application\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|solutionrelative:beautify.application\\interface\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B8132-636F-4642-849B-4893B9D33486}|API\\BEAUTIFY.API.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC3B8132-636F-4642-849B-4893B9D33486}|API\\BEAUTIFY.API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024151730_initailcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024151730_initailcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141550_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141550_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141000_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141000_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B8132-636F-4642-849B-4893B9D33486}|API\\BEAUTIFY.API.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B8132-636F-4642-849B-4893B9D33486}|API\\BEAUTIFY.API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.application\\beautify.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|solutionrelative:beautify.application\\beautify.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C57389-A3B4-47EB-82B5-07E40249791E}|BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.domain\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C57389-A3B4-47EB-82B5-07E40249791E}|BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj|solutionrelative:beautify.domain\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C57389-A3B4-47EB-82B5-07E40249791E}|BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.domain\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C57389-A3B4-47EB-82B5-07E40249791E}|BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj|solutionrelative:beautify.domain\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B8132-636F-4642-849B-4893B9D33486}|API\\BEAUTIFY.API.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BC3B8132-636F-4642-849B-4893B9D33486}|API\\BEAUTIFY.API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.infrastrcture\\service_registry\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|solutionrelative:beautify.infrastrcture\\service_registry\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.infrastrcture\\repository\\tokenrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|solutionrelative:beautify.infrastrcture\\repository\\tokenrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.infrastrcture\\app_db_context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|solutionrelative:beautify.infrastrcture\\app_db_context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.application\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|solutionrelative:beautify.application\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.application\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|solutionrelative:beautify.application\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.application\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30EBE45-5922-4E09-9395-E40948495BB8}|BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj|solutionrelative:beautify.application\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C57389-A3B4-47EB-82B5-07E40249791E}|BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.domain\\beautify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02C57389-A3B4-47EB-82B5-07E40249791E}|BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj|solutionrelative:beautify.domain\\beautify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|c:\\users\\ehtishamali3\\downloads\\beautify-backend\\beautify.infrastrcture\\beautify.infrastrcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D99D4073-DF0A-4AFB-BDFC-B5F06314E3EA}|BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj|solutionrelative:beautify.infrastrcture\\beautify.infrastrcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251024151730_initailcreate.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024151730_initailcreate.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024151730_initailcreate.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024151730_initailcreate.cs",
+              "RelativeToolTip": "BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024151730_initailcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:17:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251024141550_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141550_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141550_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141550_InitialCreate.cs",
+              "RelativeToolTip": "BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141550_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:15:51.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251024141000_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141000_Initial.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141000_Initial.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141000_Initial.cs",
+              "RelativeToolTip": "BEAUTIFY.INFRASTRCTURE\\Migrations\\20251024141000_Initial.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAgwDMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:10:01.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-24T12:39:06.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\REPOSITORY\\AuthRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.INFRASTRCTURE\\REPOSITORY\\AuthRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\REPOSITORY\\AuthRepositoryImpl.cs",
+              "RelativeToolTip": "BEAUTIFY.INFRASTRCTURE\\REPOSITORY\\AuthRepositoryImpl.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:10:49.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\REPOSITORY\\TokenRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.INFRASTRCTURE\\REPOSITORY\\TokenRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\REPOSITORY\\TokenRepositoryImpl.cs",
+              "RelativeToolTip": "BEAUTIFY.INFRASTRCTURE\\REPOSITORY\\TokenRepositoryImpl.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA9wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:54:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\SERVICE_REGISTRY\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.INFRASTRCTURE\\SERVICE_REGISTRY\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\SERVICE_REGISTRY\\ServiceRegistration.cs",
+              "RelativeToolTip": "BEAUTIFY.INFRASTRCTURE\\SERVICE_REGISTRY\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:00:51.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T10:33:11.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\INTERFACE\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.APPLICATION\\INTERFACE\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\INTERFACE\\IAuthRepository.cs",
+              "RelativeToolTip": "BEAUTIFY.APPLICATION\\INTERFACE\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:03:34.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:48:47.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywCgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:16:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.DOMAIN\\MODELS\\AppUser.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.DOMAIN\\MODELS\\AppUser.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.DOMAIN\\MODELS\\AppUser.cs",
+              "RelativeToolTip": "BEAUTIFY.DOMAIN\\MODELS\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:55:10.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.DOMAIN\\MODELS\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.DOMAIN\\MODELS\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.DOMAIN\\MODELS\\RefreshToken.cs",
+              "RelativeToolTip": "BEAUTIFY.DOMAIN\\MODELS\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:00:58.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\APP_DB_CONTEXT\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.INFRASTRCTURE\\APP_DB_CONTEXT\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\APP_DB_CONTEXT\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BEAUTIFY.INFRASTRCTURE\\APP_DB_CONTEXT\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:42:37.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\INTERFACE\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.APPLICATION\\INTERFACE\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\INTERFACE\\ITokenRepository.cs",
+              "RelativeToolTip": "BEAUTIFY.APPLICATION\\INTERFACE\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:53:52.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.APPLICATION\\DTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "BEAUTIFY.APPLICATION\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:47:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\DTO\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "BEAUTIFY.APPLICATION\\DTO\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\DTO\\AuthResponse.cs",
+              "RelativeToolTip": "BEAUTIFY.APPLICATION\\DTO\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:05:55.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BEAUTIFY.DOMAIN.csproj",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj",
+              "RelativeDocumentMoniker": "BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj",
+              "RelativeToolTip": "BEAUTIFY.DOMAIN\\BEAUTIFY.DOMAIN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T09:39:07.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BEAUTIFY.INFRASTRCTURE.csproj",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj",
+              "RelativeDocumentMoniker": "BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj",
+              "RelativeToolTip": "BEAUTIFY.INFRASTRCTURE\\BEAUTIFY.INFRASTRCTURE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T09:33:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BEAUTIFY.APPLICATION.csproj",
+              "DocumentMoniker": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj",
+              "RelativeDocumentMoniker": "BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj",
+              "ToolTip": "C:\\Users\\EHTISHAMALI3\\Downloads\\BEAUTIFY-BACKEND\\BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj",
+              "RelativeToolTip": "BEAUTIFY.APPLICATION\\BEAUTIFY.APPLICATION.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T09:30:04.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
