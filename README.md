@@ -209,3 +209,11 @@ tzdata                    2025.2
 urllib3                   2.5.0
 uvicorn                   0.38.0
 watchdog                  6.0.0
+
+
+for run project ml 
+
+python -m src.models.train_baselines
+
+for run api 
+uvicorn src.api.app:app --reload
